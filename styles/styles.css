@@ -9,5 +9,28 @@ body{
 }
 
 .card{
-    
+    width: 360px;
+    min-height: 600px;
+    background-color: #fff;
+}
+
+.title{
+    text-align: center;
+}
+
+.people-container{
+    min-height: 400px;
+}
+
+.img{
+    height: 60px;
+    width: 60px;
+}
+
+button{
+    background-color: blueviolet;
+    width: 180px;
+    height: 20px;
+    border: 0;
+    border-radius: 15px;
 }
